@@ -1,8 +1,0 @@
-﻿  AlgorithmSortAll.cpp
-  AlgorithmSortK.cpp
-  Main.cpp
-  SelectionAlgorithm.cpp
-  TestBed.cpp
-  Kod Üretiliyor...
-C:\Users\alpog\source\repos\ob015662_hw1\ob015662_hw1\SelectionAlgorithm.cpp(98): warning C4715:  'SelectionAlgorithm::insertionSort': tüm denetim yolları değer döndürmez
-  ob015662_hw1.vcxproj -> C:\Users\alpog\source\repos\ob015662_hw1\Debug\ob015662_hw1.exe
